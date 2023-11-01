@@ -14,11 +14,11 @@
     <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
-- 🔭 I’m currently working on **Javascript, Nodejs, MongoDB, MySQL, Koa, Vue, Quasar**
+-🔭 I’m currently working on **Javascript, Nodejs, MongoDB, MySQL, Koa, Vue, Quasar**
 
-- 💬 Ask me about **MongoDB, MySQL, Koa, Nodejs**
+-💬 Ask me about **MongoDB, MySQL, Koa, Nodejs**
 
-- 📫 Feel free to reach me out **dartagnanromann@gmail.com**
+-📫 Feel free to reach me out **dartagnanromann@gmail.com**
 <p align="center">
 <table align="center">
 <tr border="none">
