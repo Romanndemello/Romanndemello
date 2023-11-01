@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm D'Artagnan</h1></summary>
+    <summary><h1 style="display: inline-block">Welcome, I'm D'Artagnan</h1></summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
 
@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Javascript, Nodejs, MongoDB, MySQL, Koa, Vue, Quasar**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **MongoDB, MySQL, Koa, Nodejs**
 
 - 📫 Feel free to reach me out **dartagnanromann@gmail.com**
 
